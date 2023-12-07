@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am the fourth-year Ph.D student in the Department of Systems Engineering and Engineering Management from the <a href="https://www.se.cuhk.edu.hk/"> Chinese University of Hong Kong</a>, supervised by <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-so-man-cho-anthony/"> Prof. Anthony Man-Cho So</a>. Before that, I received my bachelor degree in Statistics from Huazhong University of Science and Technology. My research involves developing algorithms for structured nonconvex problems and provide theorectical analysis for it.
+I am the fourth-year Ph.D student in the Department of Systems Engineering and Engineering Management from the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Chinese University of Hong Kong</a>, supervised by <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-so-man-cho-anthony/" target="_blank"> Prof. Anthony Man-Cho So</a>. Before that, I received my bachelor degree in Statistics from Huazhong University of Science and Technology. My research involves developing algorithms for structured nonconvex problems and provide theorectical analysis for it.
   
    **I am actively looking for postdoc position starting from <font color=red>August 2025</font>!** 
  
