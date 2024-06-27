@@ -13,6 +13,7 @@
 <ul style="margin:0 0 20px;">
   <li> Transactions on Machine Learning Research</li>
   <li> International Conference on Artificial Intelligence and Statistics (AISTATS), 2024 </li>
+  <li> Neural Information Processing Systems (NeurIPS), 2024 </li>
 </ul>
 
 <!--  <h4 style="margin:0 10px 0;">Membership & Activities</h4>
