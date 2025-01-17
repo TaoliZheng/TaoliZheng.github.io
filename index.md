@@ -8,6 +8,9 @@ I am a fifth-year Ph.D student in the Department of Systems Engineering and Engi
    **I am actively looking for postdoc position starting from <font color=red>August 2025</font>!** 
  
 ## Publication/Preprint 
+- <a href="https://arxiv.org/pdf/2008.12953.pdf"> Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave Minimax Optimization</a> [ICASSP 2025]\\
+Xia Jiang, Linglingzhi Zhu, **Taoli Zheng**, Anthony Man-Cho So.
+
 - <a href="https://arxiv.org/pdf/2212.12978.pdf"> Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization</a> [NeurIPS 2023]\\
 **Taoli Zheng**, Linglingzhi Zhu, Anthony Man-Cho So, José Blanchet, Jiajin Li.
 
@@ -16,7 +19,6 @@ I am a fifth-year Ph.D student in the Department of Systems Engineering and Engi
 
 - <a href="https://arxiv.org/pdf/2008.12953.pdf"> Sparse high-order portfolios via proximal DCA and SCA</a> [ICASSP 2021]\\
 Jinxin Wang, Zengde Deng, **Taoli Zheng**, Anthony Man-Cho So.
-
 
 ## Awards
 - **[Oct. 2023]**  *NeurIPS 2023 Scholar Award* 
