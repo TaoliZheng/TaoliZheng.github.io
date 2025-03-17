@@ -8,7 +8,7 @@ I am a fifth-year Ph.D student in the Department of Systems Engineering and Engi
    **I am actively looking for postdoc position starting from <font color=red>August 2025</font>!** 
  
 ## Publication/Preprint 
-- <a href="https://arxiv.org/pdf/2501.05677"> Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave Minimax Optimization</a> [ICASSP 2025]\\
+- <a href="https://arxiv.org/pdf/2501.05677"> Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave Minimax Optimization</a> [ICASSP 2025 (Oral)]\\
 Xia Jiang, Linglingzhi Zhu, **Taoli Zheng**, Anthony Man-Cho So.
 
 - <a href="https://arxiv.org/pdf/2212.12978.pdf"> Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization</a> [NeurIPS 2023]\\
