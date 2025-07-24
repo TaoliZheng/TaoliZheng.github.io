@@ -3,18 +3,19 @@ layout: homepage
 ---
 
 ## About Me
-I am a fifth-year Ph.D student in the Department of Systems Engineering and Engineering Management from the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Chinese University of Hong Kong</a>, supervised by <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-so-man-cho-anthony/" target="_blank"> Prof. Anthony Man-Cho So</a>. I am also a visiting Ph.D student in the Department of Combinatorics and Optimization form the <a href="https://uwaterloo.ca/combinatorics-and-optimization/" target="_blank"> University of Waterloo</a>, supervised by <a href="https://uwaterloo.ca/scholar/vavasis" target="_blank"> Prof. Stephen A. Vavasis</a> and <a href="https://www.math.uwaterloo.ca/~hwolkowi/" target="_blank"> Prof. Henry Wolkowicz</a>. Before that, I received my bachelor degree in Statistics from Huazhong University of Science and Technology in 2020. My research involves developing algorithms for structured nonconvex problems and provide theoretical analysis for them.
+I am a fifth-year Ph.D student in the Department of Systems Engineering and Engineering Management from the <a href="https://www.se.cuhk.edu.hk/" target="_blank"> Chinese University of Hong Kong</a>, supervised by <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-so-man-cho-anthony/" target="_blank"> Prof. Anthony Man-Cho So</a>. From September 2024 to January 2025, I was a visiting Ph.D student in the Department of Combinatorics and Optimization form the <a href="https://uwaterloo.ca/combinatorics-and-optimization/" target="_blank"> University of Waterloo</a>, supervised by <a href="https://uwaterloo.ca/scholar/vavasis" target="_blank"> Prof. Stephen A. Vavasis</a> and <a href="https://www.math.uwaterloo.ca/~hwolkowi/" target="_blank"> Prof. Henry Wolkowicz</a>. Before that, I received my bachelor degree in Statistics from Huazhong University of Science and Technology in 2020. My research involves developing algorithms for structured nonconvex problems and provide theoretical analysis for them.
   
-   **I am actively looking for postdoc position starting from <font color=red>August 2025</font>!** 
- 
 ## Publication/Preprint 
+- <a href="https://arxiv.org/pdf/2506.07397"> Doubly smoothed optimistic gradients: A universal approach for smooth minimax problems</a> \\
+**Taoli Zheng**, Anthony Man-Cho So, and Jiajin Li.
+
 - <a href="https://arxiv.org/pdf/2501.05677"> Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave Minimax Optimization</a> [ICASSP 2025 (Oral)]\\
 Xia Jiang, Linglingzhi Zhu, **Taoli Zheng**, Anthony Man-Cho So.
 
 - <a href="https://arxiv.org/pdf/2212.12978.pdf"> Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization</a> [NeurIPS 2023]\\
 **Taoli Zheng**, Linglingzhi Zhu, Anthony Man-Cho So, José Blanchet, Jiajin Li.
 
-- <a href="https://arxiv.org/pdf/2210.05066.pdf"> A Linearly Convergent Algorithm for Rotationally Invariant $\ell_1$-Norm Principal Component Analysis</a> [In preparation for IEEE Transactions on Signal Processing] \\
+- <a href="https://arxiv.org/pdf/2210.05066.pdf"> A Linearly Convergent Algorithm for Rotationally Invariant $\ell_1$-Norm Principal Component Analysis</a> \\
 **Taoli Zheng**, Peng Wang, and Anthony Man-Cho So.
 
 - <a href="https://arxiv.org/pdf/2008.12953.pdf"> Sparse high-order portfolios via proximal DCA and SCA</a> [ICASSP 2021]\\
