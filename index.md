@@ -26,6 +26,7 @@ Jinxin Wang, Zengde Deng, **Taoli Zheng**, Anthony Man-Cho So.
 - **[May. 2023]** *CUHK Reaching Out Award* 
 - **[Apr. 2023]** *Student Travel Award of SIAM OP23* 
 - **[July. 2020- July. 2024]** *CUHK Postgraduate Student Scholarship*
+- **[Oct, 2025]** *NeurIPS Top Reviewer*
 
 {% include_relative _includes/services.md %}
 
