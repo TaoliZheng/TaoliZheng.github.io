@@ -8,15 +8,23 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Reviewers for </h4>
+<h4 style="margin:0 10px 0;">Review for Journals: </h4>
 
 <ul style="margin:0 0 20px;">
   <li> Transactions on Machine Learning Research (TMLR) </li>
-  <li> International Conference on Artificial Intelligence and Statistics (AISTATS) </li>
+   <li> Mathematics of Operations Research (MOR) </li>
+  <li> IEEE Transactions on Signal Processing (TSP)</li>     
+  <li> Mathematical Programming (MP) </li>
+  <li> Optimization Methods and Software </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Review for Conferences: </h4>
+
+<ul style="margin:0 0 20px;">
   <li> Neural Information Processing Systems (NeurIPS)  </li>
   <li> International Conference on Learning Representations (ICLR) </li>
-  <li> International Conference on Machine Learning (ICML) </li>
-  <li> Mathematics of Operations Research (MOR) </li>
+  <li> International Conference on Machine Learning (ICML) </li>  
+  <li> International Conference on Artificial Intelligence and Statistics (AISTATS) </li>
 </ul>
 
 <!--  <h4 style="margin:0 10px 0;">Membership & Activities</h4>
